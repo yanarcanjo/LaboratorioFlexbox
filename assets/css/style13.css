@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+div {
+    background-color: rgb(21, 84, 219);
+    width: 14em;
+    height: 8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.tres {
+    order: -2;
+}

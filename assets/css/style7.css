@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+
+.sec1 {
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.sec2 {
+    height: 80vh;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+div {
+    background-color: rgb(21, 84, 219);
+    width: 12em;
+    height: 8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

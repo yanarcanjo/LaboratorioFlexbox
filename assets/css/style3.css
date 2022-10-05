@@ -1,0 +1,15 @@
+section {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    justify-content: end;
+}
+
+div {
+    background-color: rgb(21, 84, 219);
+    width: 9em;
+    height: 8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

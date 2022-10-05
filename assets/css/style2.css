@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    gap: 10px;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(21, 84, 219);
+    width: 9em;
+    height: 8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

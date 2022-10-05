@@ -1,0 +1,17 @@
+section {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+div {
+    background-color: rgb(21, 84, 219);
+    width: 14em;
+    height: 8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
